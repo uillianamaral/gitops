@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: uillianhenrique/gitops
-  newTag: ab450bd39c54a8e36cf30504ceff028241ec0510
+  newTag: 2710d9cd5326d7460cf2cfe22a76ecec9b579da0
